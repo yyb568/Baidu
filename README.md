@@ -1,3 +1,4 @@
+# 百度云解除下载限制
 # BaiduNetdiskPlugin-macOS
 
 ![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![GitHub license](https://img.shields.io/github/license/CodeTips/BaiduNetdiskPlugin-macOS.svg)](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS/blob/master/LICENSE)
